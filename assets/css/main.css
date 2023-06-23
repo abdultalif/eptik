@@ -805,7 +805,7 @@ section {
 # Call To Action Section
 --------------------------------------------------------------*/
 .call-to-action .container {
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://www.unpak.ac.id/images/visi-misi-unpak.webp") center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("assets/img/visi-misi-bsi.png") center center;
   background-size: cover;
   padding: 100px 60px;
   border-radius: 15px;
